@@ -44,7 +44,7 @@ This port is based on the exploit implementation published in:
 Special thanks to:
 - [F-19-F/IonStackQuest3](https://github.com/F-19-F/IonStackQuest3)
 
-Forked from sarabpal-dev(https://github.com/sarabpal-dev/IonStack-S22U). Target generator made this a breeze. The only addition is my fork are the target and build files for my personal device as listed above.
+- Forked from sarabpal-dev(https://github.com/sarabpal-dev/IonStack-S22U). Target generator made this a breeze. The only addition in this fork are the target files for my personal device as listed above. Tested and working currently.
 
 The upstream Apache License 2.0 is retained in [LICENSE](LICENSE).
 
